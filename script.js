@@ -28,7 +28,6 @@ function alterarContexto (contexto) {
             Hora de voltar à superfície.<strong class="app__title-strong"> Faça uma pausa longa.</strong>
             `
             break;
-
         default:
             break;
     }
